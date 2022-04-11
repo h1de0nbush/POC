@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# author:何则君
+# author:h1de0nbush
 # time:2011/11/23
 # information shiro 550 反序列化 poc
 import os
